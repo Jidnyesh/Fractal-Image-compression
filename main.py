@@ -19,8 +19,6 @@ import math
 import PIL
 from PIL import Image
 
-#git remove
-
 #class For file choose API
 class FChooser(App):
     pass
@@ -294,7 +292,6 @@ class SampleApp(App):
  
 sample_app = SampleApp()
 sample_app.run()
-
  
 
  
